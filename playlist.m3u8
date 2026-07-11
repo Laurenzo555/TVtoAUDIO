@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logo_Gulli_2022.svg/180px-Logo_Gulli_2022.svg.png" group-title="France",Gulli
+https://origin-drp-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
